@@ -1,5 +1,7 @@
 # 🏰 Tower of Hanoi – C Implementation Using Stacks and Queues
-<img width="488" height="276" alt="image" src="https://github.com/user-attachments/assets/fb2c11e6-fb49-4519-93a8-334637d213f3" />
+<p align="center">
+  <img width="488" height="276" src="https://github.com/user-attachments/assets/fb2c11e6-fb49-4519-93a8-334637d213f3" alt="image" />
+</p>
 
 
 ## 📋 Overview
